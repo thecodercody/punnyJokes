@@ -1,0 +1,22 @@
+body {
+  background-color: #000000;
+  display: block;
+}
+
+p {
+  text-align: center;
+}
+
+label, textarea {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h1, h2, legend, label {
+  color: gold;
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+}
